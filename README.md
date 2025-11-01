@@ -1,7 +1,5 @@
 # Online-Course-Completion-Prediction-using-Machine-Learning-FastAPI-OOP
 
-# 🎓 End-to-End Online Course Completion Prediction using Machine Learning, FastAPI & OOP  
-
 This project demonstrates a complete **end-to-end machine learning workflow** — from data preprocessing and model building to **deployment using FastAPI**.  
 It predicts whether a student will complete an online course based on demographic and device usage patterns, following clean **Object-Oriented Programming (OOP)** principles and modern API development standards.  
 
